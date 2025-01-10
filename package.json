@@ -48,7 +48,7 @@
     "react": "^16.3.0"
   },
   "dependencies": {
-    "smooth-dnd-modified": "0.12.5",
-    "prop-types": ">=15.6.0"
+    "prop-types": ">=15.6.0",
+    "smooth-dnd-modified": "^0.12.6"
   }
 }

@@ -1112,10 +1112,10 @@ serialize-javascript@^2.1.2:
   resolved "https://registry.yarnpkg.com/serialize-javascript/-/serialize-javascript-2.1.2.tgz#ecec53b0e0317bdc95ef76ab7074b7384785fa61"
   integrity sha512-rs9OggEUF0V4jUSecXazOYsLfu7OGK2qIn3c7IPBiffz32XniEp/TX9Xmc9LQfK2nQ2QKHvZ2oygKUGU0lG4jQ==
 
-smooth-dnd-modified@0.12.5:
-  version "0.12.5"
-  resolved "https://registry.yarnpkg.com/smooth-dnd-modified/-/smooth-dnd-modified-0.12.5.tgz#32044e1d2d34436be1c28563b80d3382ca4cc6c4"
-  integrity sha512-HP4bm5W4QqRMs/Hv8WLadmWPpkrnDMrySf6wR1OgilIzWDBLqntmRrXoVGkSzdRUDr3pPfUhvje+dbrf0n6KdA==
+smooth-dnd-modified@^0.12.6:
+  version "0.12.6"
+  resolved "https://registry.yarnpkg.com/smooth-dnd-modified/-/smooth-dnd-modified-0.12.6.tgz#2103ffc975085acc4c574d9f7dfaf7b94279f8df"
+  integrity sha512-pS6WK+N72sH0YqWvjogXbtIFWPTmR6iz5W03yC7dNnZt2S6aimyMe1637fpJ573m1+HZLgsLtE/Tot1SeZB7Vg==
 
 source-map@^0.5.0:
   version "0.5.7"

@@ -1,6 +1,6 @@
 {
   "name": "react-smooth-dnd-modified",
-  "version": "0.11.7",
+  "version": "0.11.8",
   "description": "Drag and Drop library",
   "main": "./dist/index.js",
   "scripts": {
@@ -49,6 +49,6 @@
   },
   "dependencies": {
     "prop-types": ">=15.6.0",
-    "smooth-dnd-modified": "^0.12.6"
+    "smooth-dnd-modified": "^0.12.7"
   }
 }
